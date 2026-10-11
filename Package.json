@@ -1,0 +1,12 @@
+{
+“name”: “spotify-suggestions-bot”,
+“version”: “1.0.0”,
+“description”: “Discord song suggestions bot”,
+“main”: “index.js”,
+“scripts”: {
+“start”: “node index.js”
+},
+“dependencies”: {
+“discord.js”: “^14.19.3”
+}
+}
